@@ -1,0 +1,20 @@
+{
+  "name": "abhishek",
+  "version": "1.0.0",
+  "description": "my first back end code",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node",
+    "abhi",
+    "kannor"
+  ],
+  "author": "Abhishek kannor",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.1",
+    "express": "^4.18.2"
+  }
+}
